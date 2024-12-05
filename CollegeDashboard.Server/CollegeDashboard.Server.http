@@ -1,0 +1,6 @@
+@CollegeDashboard.Server_HostAddress = http://localhost:5120
+
+GET {{CollegeDashboard.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
